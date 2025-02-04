@@ -14,6 +14,7 @@ public class SortedAndRotated {
             if (c>1){
                 flag= false;
             }
+
         }
 
         return flag;
